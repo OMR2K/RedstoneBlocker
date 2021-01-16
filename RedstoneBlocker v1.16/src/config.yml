@@ -1,6 +1,6 @@
 # How many hours should the player be blocked from using redstone after joining?
 hours: 2
-# What should be blocked?
+# What blocks should be blocked?
 redstone_dust: true
 redstone_repeater: true
 redstone_comparator: true
