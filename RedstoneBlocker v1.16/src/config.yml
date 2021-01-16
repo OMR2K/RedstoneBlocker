@@ -1,2 +1,22 @@
 # How many hours should the player be blocked from using redstone after joining?
 hours: 2
+
+# What should be blocked?
+redstone_dust: true
+redstone_repeater: true
+redstone_comparator: true
+redstone_torch: true
+redstone_block: true
+piston: true
+sticky_piston: true
+dispenser: true
+dropper: true
+observer: true
+lever: true
+pressure_plates: true
+tripwire_hook: true
+buttons: true
+daylight_detector: true
+hopper: true
+target: true
+tnt: false
